@@ -230,7 +230,7 @@
         <!--Navigation Controller-->
         <scene sceneID="FQp-WQ-ka4">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" modalPresentationStyle="fullScreen" id="NMZ-lR-jGo" sceneMemberID="viewController">
+                <navigationController storyboardIdentifier="FeedNavigationController" automaticallyAdjustsScrollViewInsets="NO" modalPresentationStyle="fullScreen" id="NMZ-lR-jGo" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="g3x-vn-EKs">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
